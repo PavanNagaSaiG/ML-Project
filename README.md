@@ -1,4 +1,7 @@
 # Final Project  
+## Name: Pavan Naga Sai Gullapalli
+### Student ID: 700745501
+### Email ID: pxg55010@ucmo.edu
 
 Functional Object-Oriented Networks (FOONs) are a knowledge representation system used for robotic task planning and manipulation. This paper presents proposed weighted FOON and task planning algorithms that enable robots and humans to collaboratively complete complex tasks with higher success rates than a human working alone. The algorithms are applied to a recipe graph and the obtained subgraphs represent parts of the recipe that meet specified criteria such as requiring the smallest number of ingredients possible or having the highest success rate for a specific action.  
 
